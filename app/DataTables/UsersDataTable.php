@@ -5,9 +5,6 @@ namespace App\DataTables;
 use App\Models\User;
 use Yajra\DataTables\Html\Button;
 use Yajra\DataTables\Html\Column;
-use Yajra\DataTables\Html\ColumnDefinition;
-use Yajra\DataTables\Html\ColumnDefinitions;
-use Yajra\DataTables\Html\SearchPane;
 use Yajra\DataTables\Services\DataTable;
 
 class UsersDataTable extends DataTable
